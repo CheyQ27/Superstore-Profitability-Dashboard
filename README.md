@@ -49,4 +49,5 @@ Specific customer segments contribute more to profitability, suggesting targeted
 Cheyenne Quann
 
 Business Intelligence Analytics Apprentice
+
 Las Vegas, NV
