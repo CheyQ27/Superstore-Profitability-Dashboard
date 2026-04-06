@@ -1,5 +1,5 @@
-Superstore Profitability Analysis 
-## Tableau Dashboard
+## Superstore Profitability Analysis 
+
 View the interactive dashboard here:  
 (https://public.tableau.com/app/profile/cheyenne.quann/viz/SuperstoreProfitabilityDashboard_17740117068060/SubCatProfitability)
 
