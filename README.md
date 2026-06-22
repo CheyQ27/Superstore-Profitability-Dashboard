@@ -12,6 +12,7 @@ Identify top-performing and underperforming products and categories
 Analyze profit trends across regions, segments, and time
 Detect patterns in sales that negatively impact profitability
 Provide data-driven recommendations to improve business performance
+
 🗄️ Dataset
 
 File: Superstore dataset (Tableau workbook)
